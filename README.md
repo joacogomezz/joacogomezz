@@ -96,7 +96,7 @@ const joaco = {
 ### 🌐 Encuéntrame en
 
 [![GitHub](https://img.shields.io/badge/GitHub-0a0f2c?style=for-the-badge&logo=github&logoColor=90CAF9)](https://github.com/joacogomezz)
-[![Instagram](https://img.shields.io/badge/Instagram-0a0f2c?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/joaoogomez)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0f2c?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://instagram.com/joaoogoomez)
 
 <br/>
 
