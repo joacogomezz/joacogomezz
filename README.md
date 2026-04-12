@@ -85,7 +85,7 @@ const joaco = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joacogomezz&bg_color=0a0f2c&color=90CAF9&line=1a237e&point=64B5F6&area=true&area_color=1a237e&hide_border=true&radius=6)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joacogomezz&bg_color=060d1f&color=90CAF9&line=3949AB&point=90CAF9&area=true&area_color=1a237e&hide_border=true&radius=6&custom_title=Contribuciones%20de%20joacogomezz)](https://github.com/joacogomezz)
 
 </div>
 
