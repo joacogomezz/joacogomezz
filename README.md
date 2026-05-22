@@ -17,14 +17,11 @@
 ## 🧑‍💻 Sobre mí
 
 ```js
-const joaco = {
+const joao = {
   role     : "Frontend Developer",
   location : "México 🇲🇽",
   languages: ["JavaScript", "TypeScript", "Python", "C#", "Java"],
   tools    : ["React", "Android Studio", ".NET", "VS Code", "Git"],
-  passion  : "Crear interfaces que enamoren al usuario ✨",
-  learning : "Always something new...",
-  funFact  : "El café es mi stack favorito ☕"
 };
 ```
 
@@ -101,7 +98,5 @@ const joaco = {
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283593,50:1a237e,100:0a0f2c&height=100&section=footer" width="100%"/>
-
-*✦ Si algo te resulta útil, una ⭐ siempre se agradece ✦*
 
 </div>
